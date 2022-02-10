@@ -1,7 +1,7 @@
 # Olá! Eu sou a Ana Pérola 
 
 ### - 💻 Junior Back-end Dev (Ruby)
-### - ❤️ Estou me aperfeiçoando técnologias como: 
+### - ❤️ Estou me aperfeiçoando em técnologias como: 
   Typescript, Docker, AWS, React Native, ReactJs, NextJs, NodeJs, HTML5, CSS, TDD 
 ### - 📫 Contate-me: aperola32@gmail.com
 ### - 😄 Pronomes: ela/dela/she/her
