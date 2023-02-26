@@ -1,4 +1,4 @@
-# Hii! Eu sou a Ana Pérola 
+# Oiee! Eu sou a Ana Pérola 
 
 ### - 💻 Back-end Dev (Ruby)
 ### - ❤️ Estou me aperfeiçoando em técnologias como: 
